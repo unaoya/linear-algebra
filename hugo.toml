@@ -1,0 +1,5 @@
+baseURL = 'https://unaoya.github.io/linear-algebra/'
+languageCode = 'ja'
+title = '線形代数入門'
+theme = 'hugo-book'
+publishDir = "public"
